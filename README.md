@@ -1,7 +1,7 @@
 <!--### Hi there 👋 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbdada,100:fef0f0&height=300&section=header&text=Welcome%20To%20LJA's%20GitHub&fontSize=40&fontColor=ffffff&animation=twinkling)
 
-# Hi there, I'm LJA 👋
+# 안녕하세요, 저는 이진아 입니다 👋
 
 ## 🚀 소개
 열정적인 개발자로서 동적이고 반응형 웹 애플리케이션을 만드는 것을 좋아합니다. 새로운 기술을 배우고 끊임없이 제 기술을 향상시키는 것을 즐깁니다.
