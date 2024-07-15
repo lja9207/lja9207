@@ -27,5 +27,5 @@
 - [Email](mailto:3wksu2@gmail.com)
 
 ## 📈 GitHub 통계
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lja9207&show_icons=true&theme=radical)
 
