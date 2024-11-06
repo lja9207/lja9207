@@ -12,16 +12,16 @@
 - **Web Development:** HTML, CSS
 - **Databases:** MySQL
 
-## 🔭 현재 프로젝트
+## 🔭 프로젝트
 - **[Jiwoo]((https://github.com/AI-X-Jiwoo/Jiwoo-Back))**: 창업 지원 AI 서비스
 
-## 🌱 배우고 있는 것
-- AI - 인공지능 병합
 
 ## 💬 문의
 - 풀스택 개발
 - Spring을 사용한 RESTful API 구축
 - React를 활용한 프론트엔드 개발
+- AI LLM 서비스 개발
+- AI 머신러닝 예측
 
 ## 📫 연락처
 - [Email](mailto:3wksu2@gmail.com)
